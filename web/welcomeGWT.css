@@ -1,0 +1,23 @@
+/* 
+    Document   : welcomeGWT
+    Created on : Sep 29, 2009, 8:56:24 PM
+    Author     : nbuser
+    Description:
+        For use with the HelloGWT application.
+*/
+
+.quoteLabel {
+    color: white;
+    display: block;
+    width: 450px;
+    padding: 2px 4px;
+    text-decoration: none;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border: 1px solid;
+    border-color: black;
+    background-color: #704968;
+    text-decoration: none;
+}
+
